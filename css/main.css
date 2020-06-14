@@ -118,6 +118,10 @@ h2{
     font-size: 14px;
     outline: none;
 }
+.input-wrapper button{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
 .Map{
     height: 100%;
     width: 100%;
